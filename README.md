@@ -16,6 +16,7 @@ People
 * [Marko Denic](https://markodenic.com/blog/)
 * [Joel Spolsky](https://www.joelonsoftware.com)
 * [Martin Fowler](https://martinfowler.com)
+* [Luca Palmieri](https://www.lpalmieri.com/)
 
 Organisations
 
