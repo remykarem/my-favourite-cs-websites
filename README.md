@@ -14,12 +14,15 @@ People
 * [QuanticDev](https://quanticdev.com)
 * [Victor Zhou](https://victorzhou.com)
 * [Marko Denic](https://markodenic.com/blog/)
+* [Joel Spolsky](https://www.joelonsoftware.com)
+* [Martin Fowler](https://martinfowler.com)
 
 Organisations
 
 * [Dropbox](https://dropbox.tech)
 * [Airbnb](https://medium.com/airbnb-engineering)
 * [Lyft](https://eng.lyft.com)
+* [GDS](https://blog.gds-gov.tech)
 
 ## Open source
 
@@ -33,6 +36,8 @@ Organisations
 
 * [Compiler Explorer](https://godbolt.org)
 * [Multi-language playground](https://code.labstack.com)
+* [Port Check Tool](https://www.portchecktool.com)
+* [Regex tester](https://regex101.com)
 
 ## Interactive
 
@@ -44,6 +49,19 @@ Organisations
 * [Elements of Programming Interviews in Python](http://elementsofprogramminginterviews.com/sample/epilight_python_new.pdf)
 
 ---
+
+## OS/Systems
+
+* [Hack The Virtual Memory](https://blog.holbertonschool.com/hack-the-virtual-memory-c-strings-proc/)
+* [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+* [CS360 - Systems Programming](http://web.eecs.utk.edu/~huangj/cs360/)
+* [Lecture 24](https://www.cs.cmu.edu/~guna/15-123S11/Lectures/Lecture24.pdf)
+
+## Networking
+
+* [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/html/)
+* [DDoS attacks](https://www.digitalattackmap.com)
+* [High Performance Browser Networking](https://hpbn.co)
 
 ## How to
 
