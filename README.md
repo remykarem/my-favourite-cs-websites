@@ -17,6 +17,7 @@ People
 * [Joel Spolsky](https://www.joelonsoftware.com)
 * [Martin Fowler](https://martinfowler.com)
 * [Luca Palmieri](https://www.lpalmieri.com/)
+* [fasterthanlime](https://fasterthanli.me)
 
 Organisations
 
