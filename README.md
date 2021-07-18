@@ -18,6 +18,7 @@ People
 * [Martin Fowler](https://martinfowler.com)
 * [Luca Palmieri](https://www.lpalmieri.com/)
 * [fasterthanlime](https://fasterthanli.me)
+* [Philipp Hauer](https://phauer.com/2017/idiomatic-kotlin-best-practices/)
 
 Organisations
 
