@@ -79,3 +79,7 @@ Organisations
 ## Security
 
 * [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org)
+
+## Benchmarks
+
+* [Language benchmarks](https://github.com/kostya/benchmarks)
