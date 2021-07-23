@@ -19,6 +19,7 @@ People
 * [Luca Palmieri](https://www.lpalmieri.com/)
 * [fasterthanlime](https://fasterthanli.me)
 * [Philipp Hauer](https://phauer.com/2017/idiomatic-kotlin-best-practices/)
+* [Jakob Meier](https://www.jakobmeier.ch/index.html)
 
 Organisations
 
