@@ -20,6 +20,7 @@ People
 * [fasterthanlime](https://fasterthanli.me)
 * [Philipp Hauer](https://phauer.com/2017/idiomatic-kotlin-best-practices/)
 * [Jakob Meier](https://www.jakobmeier.ch/index.html)
+* [8bitmen (Shivang)](https://www.8bitmen.com)
 
 Organisations
 
@@ -27,6 +28,10 @@ Organisations
 * [Airbnb](https://medium.com/airbnb-engineering)
 * [Lyft](https://eng.lyft.com)
 * [GDS](https://blog.gds-gov.tech)
+
+Publications
+
+* [Baeldung](https://www.baeldung.com)
 
 ## Open source
 
@@ -47,12 +52,19 @@ Organisations
 
 * [SQLBolt](https://sqlbolt.com)
 * [PostgreSQL Exercises](https://pgexercises.com)
+* [RegexOne - Learn Regex](https://regexone.com)
 
 ## Books
 
 * [Elements of Programming Interviews in Python](http://elementsofprogramminginterviews.com/sample/epilight_python_new.pdf)
+* [Computer Science from the Bottom Up](https://www.bottomupcs.com)
 
 ---
+
+## Algorithms
+
+* [Algorithm Visualizer](https://algorithm-visualizer.org)
+* [Big-O](https://www.bigocheatsheet.com)
 
 ## OS/Systems
 
