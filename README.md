@@ -40,6 +40,8 @@ Publications
 * [Lyft](https://lyft.github.io)
 * [open.gov.sg](https://www.open.gov.sg)
 * [Google](https://opensource.google)
+* [Facebook](https://opensource.fb.com)
+* [Uber](https://uber.github.io/#/)
 
 ## Tools
 
@@ -47,6 +49,8 @@ Publications
 * [Multi-language playground](https://code.labstack.com)
 * [Port Check Tool](https://www.portchecktool.com)
 * [Regex tester](https://regex101.com)
+* [Exif viewer](https://www.metadata2go.com)
+* [Dockerfile linter](https://www.fromlatest.io/#/)
 
 ## Interactive
 
@@ -71,11 +75,13 @@ Publications
 
 * [Python Interpreter](http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
 * [Crafting Interpreters](http://craftinginterpreters.com)
+* [How to GraphQL](https://www.howtographql.com)
 
 ## Developer roadmaps
 
 * [Every programmer should know](https://github.com/mtdvio/every-programmer-should-know)
 * [Developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
+* [Web Skills](https://andreasbm.github.io/web-skills/)
 
 ---
 
@@ -102,6 +108,8 @@ By topics
 ## Code/language
 
 * [Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/index.html#)
+* [Python patterns](https://github.com/faif/python-patterns)
+* [Python Design Patterns](https://www.toptal.com/python/python-design-patterns)
 
 ## Security
 
