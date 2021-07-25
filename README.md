@@ -59,7 +59,27 @@ Publications
 * [Elements of Programming Interviews in Python](http://elementsofprogramminginterviews.com/sample/epilight_python_new.pdf)
 * [Computer Science from the Bottom Up](https://www.bottomupcs.com)
 
+## Flash cards
+
+* [wizard zines](https://questions.wizardzines.com)
+
+## Benchmarks
+
+* [Language benchmarks](https://github.com/kostya/benchmarks)
+
+## How to
+
+* [Python Interpreter](http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
+* [Crafting Interpreters](http://craftinginterpreters.com)
+
+## Developer roadmaps
+
+* [Every programmer should know](https://github.com/mtdvio/every-programmer-should-know)
+* [Developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
 ---
+
+By topics
 
 ## Algorithms
 
@@ -79,20 +99,16 @@ Publications
 * [DDoS attacks](https://www.digitalattackmap.com)
 * [High Performance Browser Networking](https://hpbn.co)
 
-## How to
-
-* [Python Interpreter](http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
-* [Crafting Interpreters](http://craftinginterpreters.com)
-
 ## Code/language
 
 * [Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/index.html#)
-
 
 ## Security
 
 * [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org)
 
-## Benchmarks
+## System design
 
-* [Language benchmarks](https://github.com/kostya/benchmarks)
+* [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+
+
