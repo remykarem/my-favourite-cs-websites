@@ -52,6 +52,7 @@ Publications
 * [Exif viewer](https://www.metadata2go.com)
 * [Dockerfile linter](https://www.fromlatest.io/#/)
 * [ShellCheck](https://www.shellcheck.net/#)
+* [explainshell](https://explainshell.com)
 
 ## Interactive
 
