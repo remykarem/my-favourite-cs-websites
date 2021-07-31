@@ -115,6 +115,8 @@ By topics
 
 ## Security
 
+* [Reversing for dummies](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html)
+* [Nightmare](https://guyinatuxedo.github.io/index.html)
 * [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org)
 
 ## System design
