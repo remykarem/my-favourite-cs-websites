@@ -21,6 +21,7 @@ People
 * [Philipp Hauer](https://phauer.com/2017/idiomatic-kotlin-best-practices/)
 * [Jakob Meier](https://www.jakobmeier.ch/index.html)
 * [8bitmen (Shivang)](https://www.8bitmen.com)
+* [Mkyong](https://mkyong.com)
 
 Organisations
 
