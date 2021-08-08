@@ -22,6 +22,8 @@ People
 * [Jakob Meier](https://www.jakobmeier.ch/index.html)
 * [8bitmen (Shivang)](https://www.8bitmen.com)
 * [Mkyong](https://mkyong.com)
+* [Artem Golubin](https://rushter.com/)
+* [Pythonspeed (Itamar Turner-Trauring)](https://pythonspeed.com/)
 
 Organisations
 
@@ -29,6 +31,7 @@ Organisations
 * [Airbnb](https://medium.com/airbnb-engineering)
 * [Lyft](https://eng.lyft.com)
 * [GDS](https://blog.gds-gov.tech)
+* [Uber](https://eng.uber.com/)
 
 Publications
 
@@ -63,6 +66,7 @@ Publications
 
 ## Books
 
+* [Algorithmic Design Paradigms](https://attachments.convertkitcdnm.com/120481/5b53ad3b-f289-4940-9e41-e40559610ae8/Algorithm_Design.pdf)
 * [Elements of Programming Interviews in Python](http://elementsofprogramminginterviews.com/sample/epilight_python_new.pdf)
 * [Computer Science from the Bottom Up](https://www.bottomupcs.com)
 
@@ -110,6 +114,7 @@ By topics
 
 ## Code/language
 
+* [Programming Idioms](https://www.programming-idioms.org/)
 * [Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/index.html#)
 * [Python patterns](https://github.com/faif/python-patterns)
 * [Python Design Patterns](https://www.toptal.com/python/python-design-patterns)
