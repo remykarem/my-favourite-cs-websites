@@ -57,6 +57,13 @@ Publications
 * [Dockerfile linter](https://www.fromlatest.io/#/)
 * [ShellCheck](https://www.shellcheck.net/#)
 * [explainshell](https://explainshell.com)
+* [YAML to JSON and more](https://transform.tools/yaml-to-json)
+* [PDF to](https://pdf.to/)
+* [Qifi](https://qifi.org/)
+* [WebWormhole](https://webwormhole.io/)
+* [Twish](https://twish.xyz/)
+* [Measure website performance (web.dev)](https://web.dev/measure/)
+* [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
 ## Interactive
 
