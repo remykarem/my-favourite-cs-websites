@@ -64,6 +64,9 @@ Publications
 * [Twish](https://twish.xyz/)
 * [Measure website performance (web.dev)](https://web.dev/measure/)
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+* [Android Device Art Generator](https://developer.android.com/distribute/marketing-tools/device-art-generator)
+* [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/)
+* [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/index.html)
 
 ## Interactive
 
