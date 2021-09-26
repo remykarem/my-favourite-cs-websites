@@ -36,6 +36,7 @@ Organisations
 Publications
 
 * [Baeldung](https://www.baeldung.com)
+* [HashRust](https://hashrust.com/blog/)
 
 ## Open source
 
