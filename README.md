@@ -24,6 +24,7 @@ People
 * [Mkyong](https://mkyong.com)
 * [Artem Golubin](https://rushter.com/)
 * [Pythonspeed (Itamar Turner-Trauring)](https://pythonspeed.com/)
+* [Patryk](https://pwy.io/en/)
 
 Organisations
 
