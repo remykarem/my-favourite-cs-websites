@@ -25,6 +25,7 @@ People
 * [Artem Golubin](https://rushter.com/)
 * [Pythonspeed (Itamar Turner-Trauring)](https://pythonspeed.com/)
 * [Patryk](https://pwy.io/en/)
+* [Michael Bryan](https://adventures.michaelfbryan.com/)
 
 Organisations
 
