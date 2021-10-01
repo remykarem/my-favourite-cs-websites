@@ -26,6 +26,7 @@ People
 * [Pythonspeed (Itamar Turner-Trauring)](https://pythonspeed.com/)
 * [Patryk](https://pwy.io/en/)
 * [Michael Bryan](https://adventures.michaelfbryan.com/)
+* [David MacLeod](https://dhghomon.github.io/easy_rust/)
 
 Organisations
 
