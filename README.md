@@ -28,6 +28,7 @@ People
 * [Michael Bryan](https://adventures.michaelfbryan.com/)
 * [David MacLeod](https://dhghomon.github.io/easy_rust/)
 * [Sylvain Kerkour](https://kerkour.com)
+* [Renato Athaydes](https://renato.athaydes.com/)
 
 Organisations
 
