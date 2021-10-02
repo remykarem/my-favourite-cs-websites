@@ -27,6 +27,7 @@ People
 * [Patryk](https://pwy.io/en/)
 * [Michael Bryan](https://adventures.michaelfbryan.com/)
 * [David MacLeod](https://dhghomon.github.io/easy_rust/)
+* [Sylvain Kerkour](https://kerkour.com)
 
 Organisations
 
