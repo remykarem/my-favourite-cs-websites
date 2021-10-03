@@ -29,6 +29,7 @@ People
 * [David MacLeod](https://dhghomon.github.io/easy_rust/)
 * [Sylvain Kerkour](https://kerkour.com)
 * [Renato Athaydes](https://renato.athaydes.com/)
+* [Nicholas Nethercote](https://nnethercote.github.io/perf-book/introduction.html)
 
 Organisations
 
