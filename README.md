@@ -30,6 +30,7 @@ People
 * [Sylvain Kerkour](https://kerkour.com)
 * [Renato Athaydes](https://renato.athaydes.com/)
 * [Nicholas Nethercote](https://nnethercote.github.io/perf-book/introduction.html)
+* [Chema](https://chemaclass.es/blog/)
 
 Organisations
 
