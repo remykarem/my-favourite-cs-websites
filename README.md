@@ -32,6 +32,7 @@ People
 * [Nicholas Nethercote](https://nnethercote.github.io/perf-book/introduction.html)
 * [Chema](https://chemaclass.es/blog/)
 * [Jonas Lundberg](https://www.iamjonas.me)
+* [Tushar](https://sadh.life/)
 
 Organisations
 
