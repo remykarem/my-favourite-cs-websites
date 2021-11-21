@@ -34,6 +34,7 @@ People
 * [Jonas Lundberg](https://www.iamjonas.me)
 * [Tushar](https://sadh.life/)
 * [Ned Batchelder](https://nedbatchelder.com)
+* [Anton Zhiyanov](https://antonz.org)
 
 Organisations
 
