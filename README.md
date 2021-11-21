@@ -33,6 +33,7 @@ People
 * [Chema](https://chemaclass.es/blog/)
 * [Jonas Lundberg](https://www.iamjonas.me)
 * [Tushar](https://sadh.life/)
+* [Ned Batchelder](https://nedbatchelder.com)
 
 Organisations
 
