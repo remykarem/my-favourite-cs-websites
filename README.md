@@ -99,6 +99,7 @@ Publications
 
 ## Benchmarks
 
+* [Web Framework Benchmarks](https://www.techempower.com/benchmarks/)
 * [Language benchmarks](https://github.com/kostya/benchmarks)
 
 ## How to
