@@ -37,6 +37,7 @@ People
 * [Anton Zhiyanov](https://antonz.org)
 * [Li Haoyi](https://www.lihaoyi.com)
 * [Cedric Chin](https://commoncog.com/blog/author/cedric/)
+* [Jimmy Hartzell](www.thecodedmessage.com)
 
 Organisations
 
