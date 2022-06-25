@@ -105,6 +105,7 @@ Publications
 
 * [Web Framework Benchmarks](https://www.techempower.com/benchmarks/)
 * [Language benchmarks](https://github.com/kostya/benchmarks)
+* [Which is the fastest?](https://github.com/the-benchmarker/web-frameworks)
 
 ## How to
 
@@ -147,6 +148,9 @@ By topics
 * [Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/index.html#)
 * [Python patterns](https://github.com/faif/python-patterns)
 * [Python Design Patterns](https://www.toptal.com/python/python-design-patterns)
+* [What the f\*ck Python! 😱](https://github.com/satwikkansal/wtfpython)
+* [Python AST explorer](https://python-ast-explorer.com/)
+* [CPython Internals](https://github.com/zpoint/CPython-Internals)
 
 ## Security
 
@@ -158,4 +162,10 @@ By topics
 
 * [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 
+## Programs
 
+* [procs](https://github.com/dalance/procs)
+* [bottom](https://github.com/ClementTsang/bottom)
+* [mitmproxy](https://mitmproxy.org/)
+* [wrk](https://github.com/wg/wrk)
+* [bandwhich](https://github.com/imsnif/bandwhich)
