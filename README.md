@@ -38,6 +38,7 @@ People
 * [Li Haoyi](https://www.lihaoyi.com)
 * [Cedric Chin](https://commoncog.com/blog/author/cedric/)
 * [Jimmy Hartzell](www.thecodedmessage.com)
+* [Addy Osmani](https://addyosmani.com/blog)
 
 Organisations
 
